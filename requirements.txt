@@ -1,0 +1,5 @@
+# Minimal project dependencies — adjust/pin after creating your virtualenv
+Django>=6.0,<7
+# Add other packages as needed, e.g.:
+# djangorestframework
+# gunicorn
